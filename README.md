@@ -192,12 +192,9 @@
 
 ## 🔑 Keywords
 
-- 🌐 IP Stresser
-- 🎯 IP Booter
-- 💥 DDOS Tool
+- 🌐 FREE IP Stresser
+- 🎯 FREE IP Booter
+- 💥 FREE DDOS Tool
 - 🌊 UDP DDOS Tool
 - ⚡ TCP DDOS Tool
 
----
-
-Drop this as `README.md` in your GitHub repo, update the `git clone` URL with your username, and you’ve got a pro, emoji-packed page for "Python DDOS V1.0"! Let me know if you want more flair or tweaks! 😎
