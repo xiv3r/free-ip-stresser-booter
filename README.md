@@ -1,6 +1,6 @@
 # Free IP Stresser & Free IP Booter Tool 🚀
 
-![Version](https://img.shields.io/badge/Version-1.0-blue)  
+![Version](https://img.shields.io/badge/Version-5.0-blue)  
 **Made by [https://elitestresser.club](https://elitestresser.club)** 🌟  
 
 - 🎉 Unleash **Python DDOS V1.0**—your ultimate **IP stresser** and **IP booter**!
